@@ -12,7 +12,7 @@ application should be able to visit the front-end and see when and where
 different birds have been sighted. That person should also be able to submit
 their _own_ sightings using a form.
 
-In order to make this possible, you will have to build out both side of the
+In order to make this possible, you will have to build out both sides of the
 application together. The steps required for building both the back-end and
 front-end are listed below.
 
