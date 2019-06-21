@@ -161,7 +161,7 @@ component(s) you will need to create in React to handle form submission and what
 additional controller action(s) and route(s) you will need to build into your Rails
 API.
 
-While it is not required, applying the classes `ui` and  `form` to the form you
+While it is not required, you can apply the classes `ui` and  `form` to the form you
 create in JSX and take advantage of the provided Semantic styling. In the
 example GIF below, a form component was created using this styling and placed
 directly after the `Header` component.
