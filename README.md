@@ -4,8 +4,8 @@
 
 In this assessment, your task is to build out an entire full-stack web
 application using a Rails back-end and a React front-end. Connecting the two, you
-will be able to run the Rails server, fetch and display from that server in
-the React front-end and persist data to the server using your front-end.
+will be able to run the Rails server, fetch and display data from that server in
+the React and persist data to the server using your front-end.
 
 Your task today is to build a bird watching application. A person using this
 application should be able to visit the front-end and see when and where
