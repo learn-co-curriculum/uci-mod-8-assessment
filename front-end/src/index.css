@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bot-army {
+  overflow-x: scroll;
+  min-height: 300px;
+  max-width: 100%;
+}
+
+.ui.grid > .row.bot-army-row {
+  flex-wrap: nowrap;
+  min-height: 100%;
+}
+
+.ui.grid {
+  padding: 0px 20px;
+}
